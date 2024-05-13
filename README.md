@@ -1,4 +1,5 @@
 # AngularApp
+
 ## Keywords | Parole Chiave | Palabras Claves
 angular-app NodeJS Typescript Angular Clean Code
 
@@ -21,4 +22,19 @@ rxjs                            7.8.1
 typescript                      5.4.5
 zone.js                         0.14.5
 
-## steps
+
+## history
+
+// material ui with Angular
+@angular/material@17.3.8
+https://material.angular.io/components
+
+// responsive site with Angular
+https://blog.angular-university.io/angular-responsive-design/
+https://www.youtube.com/watch?v=5jMeHbjTSow
+
+// install dev tools chrome Angular
+https://www.youtube.com/watch?v=bavWOHZM6zE&t=115s
+
+// blog Angular
+https://www.youtube.com/watch?v=VVUOkEr5oNw
